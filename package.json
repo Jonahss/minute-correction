@@ -1,0 +1,16 @@
+{
+  "name": "pty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stream": "^0.1.3",
+    "csv-streamify": "^3.0.4",
+    "csv-write-stream": "^2.0.0"
+  }
+}
